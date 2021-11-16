@@ -1,2 +1,1 @@
-# SE-I-Mini-Project
-Hostel Admission Form Validation
+# Hostel Admission Form Validation
